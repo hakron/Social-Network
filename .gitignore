@@ -1,7 +1,7 @@
 node_modules
 .DS_Store
 bundle.js
-
+secrets.json
 readme.txt
 helloperson.txt
 uploads
