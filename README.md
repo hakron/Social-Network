@@ -12,4 +12,4 @@ The users can see which friend is online, who are their friends and see their fr
 
 Project created with:
 
-  o React | react-bootstrap | Node.js | Axios | Postgres | Socket.io | CSS
+    o React | react-bootstrap | Node.js | Axios | Postgres | Socket.io | CSS
